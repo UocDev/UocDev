@@ -29,6 +29,12 @@ You may have come across my work in the Discord/Roblox ecosystem.:
 
 - Discord Developers Community
 
+  # Connection Account
+Platform|Name|Link to profile|Active  
+---|---|---|---  
+**Discord**|`uocdev` (Uoc)|[Server](https://discord.gg/wQmKyRm5rx)|✅
+**YouTube**|`uocdev` (Uoc Developer)|[Channel]()|Unknown
+
 
 
 <!---
