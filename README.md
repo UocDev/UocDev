@@ -34,7 +34,7 @@ Platform|Name|Link to profile|Active
 ---|---|---|---  
 **Discord**|`uocdev` (Uoc)|[Server](https://discord.gg/wQmKyRm5rx)|Online
 **YouTube**|`uocdev` (Uoc Developer)|[Channel]()|Unknown
-
+**Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Idle
 
 
 <!---
