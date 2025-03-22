@@ -32,7 +32,7 @@ You may have come across my work in the Discord/Roblox ecosystem.:
   # Connection Account
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
-**Discord**|`uocdev` (Uoc)|[Server](https://discord.gg/wQmKyRm5rx)|Online
+**Discord**|`uocdev` (Uoc)|[Profile](https://discord.com/users/1198783297715703808)|Online
 **YouTube**|`uocdev` (Uoc Developer)|[Channel]()|Unknown
 **Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Idle
 
