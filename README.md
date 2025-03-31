@@ -9,7 +9,8 @@ Uoc Developer is a playful take on "Developer Expectations" With years of experi
 # About Me
 I have been a software developer (Senior) since 2022, and a "tech geek" long long before that.
 my interests include eat oreos, roblox gaming, hangout with friends. I discovered Discord in 2024 and some time later adopted the moniker "Uoc." The name was inspired by the staff members on Discord server FPE:S, and also this name has the meaning in Vietnamese: Expectations.
-
+> [!CAUTION]
+> I never accept friends request or DM request in discord.
 # History of GitHub
 In 2025 I started my first repository on GitHub, [FPE.RP.PROJECT](https://github.com/UocDev/FPE.RP.PROJECT) I using for my roblox project, other someone reason why I use GitHub repository?
 Is FREE and OPEN SOURCE to everyone :3
