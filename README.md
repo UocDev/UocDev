@@ -11,9 +11,8 @@ I have been a software developer (Senior) since 2022, and a "tech geek" long lon
 my interests include eat oreos, roblox gaming, hangout with friends. I discovered Discord in 2024 and some time later adopted the moniker "Uoc." The name was inspired by the staff members on Discord server FPE:S, and also this name has the meaning in Vietnamese: Expectations.
 > [!NOTE]
 > If you found me in another server discord or media social, Please read my Connection account.
-# History of GitHub
-In 2025 I started my first repository on GitHub, [FPE.RP.PROJECT](https://github.com/UocDev/FPE.RP.PROJECT) I using for my roblox project, other someone reason why I use GitHub repository?
-Is FREE and OPEN SOURCE to everyone :3
+# GitHub Experience
+In 2025 I started my first repository on GitHub, white Git or GitHub anything is possible to create, learning code together, building application together and tracking any changes in codes repo.
 
 # Where Have You Seen Me?
 You may have come across my work in the Discord/Roblox ecosystem.:
