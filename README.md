@@ -11,6 +11,21 @@ I have been a software developer (Senior) since 2022, and a "tech geek" long lon
 my interests include eat oreos, roblox gaming, hangout with friends. I discovered Discord in 2024 and some time later adopted the moniker "Uoc." The name was inspired by the staff members on Discord server FPE:S, and also this name has the meaning in Vietnamese: Expectations.
 > [!NOTE]
 > If you found me in another server discord or media social, Please read my Connection account.
+
+
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+![](https://github-contributor-stats.vercel.app/api?username=UocDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=UocDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # GitHub Experience
 In 2025 I started my first repository on GitHub, white Git or GitHub anything is possible to create, learning code together, building application together and tracking any changes in codes repo.
 
