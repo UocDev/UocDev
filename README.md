@@ -59,7 +59,7 @@ Platform|Name|Link to profile|Active
 ---|---|---|---  
 **Discord**|`uocdev` (Uoc)|[Profile](https://discord.com/users/1198783297715703808)|Online
 **YouTube**|`uocdev` (Uoc Developer)|[Channel]()|Unknown
-**Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Idle
+**Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Unknown
 
 # License
 *all my project is MIT License*
