@@ -62,6 +62,13 @@ Platform|Name|Link to profile|Active
 **YouTube**|`uocdev` (Uoc Developer)|[Channel]()|Unknown
 **Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Unknown
 
+# Discord Status
+![status](https://api.statusbadges.me/badge/status/1198783297715703808?simple=true)
+<br>
+![playing](https://api.statusbadges.me/badge/playing/1198783297715703808)
+<br>
+[![spotify](https://api.statusbadges.me/badge/spotify/1198783297715703808)](https://api.statusbadges.me/openspotify/1198783297715703808)
+
 # License
 *all my project is MIT License*
 
