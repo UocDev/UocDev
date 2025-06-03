@@ -10,8 +10,10 @@ Uoc Developer is a playful take on "Developer Expectations" With years of experi
 # About Me
 I have been a software developer (Senior) since 2022, and a "tech geek" long long before that.
 my interests include eat oreos, roblox gaming, hangout with friends. I discovered Discord in 2024 and some time later adopted the moniker "Uoc." The name was inspired by the staff members on Discord server FPE:S, and also this name has the meaning in Vietnamese: Expectations.
-***
-**Languages Programming**<br>
+<details>
+  <summary>What I Use</summary>
+
+  **Languages Programming**<br>
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <br>
 **Hosting**<br>
@@ -28,9 +30,10 @@ my interests include eat oreos, roblox gaming, hangout with friends. I discovere
 <br>
 **Other**<br>
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+</details>
 
-![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ***
