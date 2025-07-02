@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/494788c4-7041-4f1f-bac4-91a41102aee1)
+![1000015579](https://github.com/user-attachments/assets/8e9aa745-c54f-42d5-a170-c5e108fadb16)
+
 # Welcome to my Github profile
 Uoc Developer is a playful take on "Developer Expectations" With years of experience in software development, I aim to bring my expertise to you. Whether it's Development Roblox Game, building bots, I'm here to make it happen.
 
