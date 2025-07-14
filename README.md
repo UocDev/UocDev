@@ -31,8 +31,7 @@ my interests include eat oreos, roblox gaming, hangout with friends. I discovere
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 </details>
 
-![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ***
