@@ -70,7 +70,7 @@ Platform|Name|Link to profile|Active
 <br>
 [![spotify](https://api.statusbadges.me/badge/spotify/1198783297715703808)](https://api.statusbadges.me/openspotify/1198783297715703808)
 
-# License
+# LicenseS
 *all Repositories is under MIT License*
 
 
@@ -86,7 +86,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-*Art / Art commission across web, app,*
+*Art / Art commission across web, app. Under CC BY-ND*
 
 
 
