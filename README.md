@@ -71,7 +71,7 @@ Platform|Name|Link to profile|Active
 <br>
 [![spotify](https://api.statusbadges.me/badge/spotify/1198783297715703808)](https://api.statusbadges.me/openspotify/1198783297715703808)
 
-# LicenseS
+# Licenses
 *all Repositories is under MIT License*
 
 
