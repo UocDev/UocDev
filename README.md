@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?account_id=183350369)
 # Welcome to my Github profile
 Uoc Developer is a playful take on "Developer Expectations" With years of experience in software development, I aim to bring my expertise to you. Whether it's Development Roblox Game, building bots, I'm here to make it happen.
 
