@@ -1,11 +1,15 @@
 ![](https://hit.yhype.me/github/profile?account_id=183350369)
 # Welcome to my Github profile
-Uoc Developer is a playful take on "Developer Expectations" With years of experience in software development, I aim to bring my expertise to you. Whether it's Development Roblox Game, building bots, I'm here to make it happen.
+Uoc Developer is a playful take on "Developer Expectations" With years of experience in software development, I aim to bring my expertise to you. Whether it's Development Roblox Game, building bots,Low-level system, I'm here to make it happen.
 
 # Here's what I can do for you:
 - Make custom moderation Discord bots, inspired by: YAGPDB, Dyno, carl-bot, and Sapphire.
 
 - Development your game on roblox with fully customized script, 3D models, dynamic lights, and other.
+
+- Low-level system like Operating system, C/C++ back-end, Embed, etc.
+
+- Packages for NPM
 
 # About Me
 I have been a software developer (Senior) since 2022, and a "tech geek" long long before that.
@@ -40,7 +44,7 @@ my interests include eat oreos, roblox gaming, hangout with friends. I discovere
 
 
 # GitHub Experience
-In 2025 I started my first repository on GitHub, white Git or GitHub anything is possible to create, learning code together, building application together and tracking any changes in codes repo.
+In 2025 I started my first repository at GitHub. with Git or GitHub anything is possible to create, learning code together, building application together and tracking any changes in codes repo.
 
 # Where Have You Seen Me?
 You may have come across my work in the Discord/Roblox ecosystem.:
