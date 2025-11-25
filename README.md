@@ -69,6 +69,9 @@ Platform|Name|Link to profile|Active
 **Blue Sky**|`uocdev.bsky.social` (Uoc Developer)|[Profile](https://uocdev.bsky.social)|Unknown
 
 # Discord Status
+> [!Caution]
+> from early 2026 to February, 11, 2026, My official discord account change to new. A old account maybe not using again!.
+
 ![status](https://api.statusbadges.me/badge/status/1198783297715703808?simple=true)
 <br>
 ![playing](https://api.statusbadges.me/badge/playing/1198783297715703808)
