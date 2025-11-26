@@ -38,7 +38,7 @@ my interests include eat oreos, roblox gaming, hangout with friends. I discovere
 
 ![](https://github-readme-stats.vercel.app/api?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=UocDev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UocDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?UocDev=Ashutosh00710&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UocDev&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ***
 [![](https://visitcount.itsvg.in/api?id=UocDev&icon=0&color=0)](https://visitcount.itsvg.in)
