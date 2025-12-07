@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?account_id=183350369)
 > [!TIP]
-> I create mirror git links for cloning my repositories. you can use at `https://git.azizah.workers.dev/(repo-name).git`. Example: `git clone https://git.azizah.workers.dev/Tachyon.git`. This mirror cannot push commit, please use github mirror!
+> I create mirror git links for cloning my repositories. you can use at https://git.azizah.workers.dev/. Example: `git clone https://git.azizah.workers.dev/Tachyon.git`. This mirror cannot push commit, please use github mirror!
 
 
 # Welcome to my Github profile
